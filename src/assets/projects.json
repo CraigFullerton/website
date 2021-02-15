@@ -5,5 +5,12 @@
     "assetImagePath": "assets/balloons.svg",
     "githubRepo": "https://github.com/CraigFullerton/NGOrganiseApp",
     "playStoreListing": null
+  },
+  {
+    "name": "Wapp",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu gravida risus, sed varius lorem. Phasellus convallis sodales enim. Maecenas imperdiet nulla vel eros scelerisque varius. Aenean tempus fermentum nulla ac vulputate. Quisque sagittis ornare fermentum. Suspendisse egestas augue ege rhoncus maximus. Duis imperdiet metus non magna volutpat, in aliquam eros porta. Pellentesque tempor nunc mauris. Nam accumsan magna nibh, volutpat auctor elit maximus ac.",
+    "assetImagePath": "assets/tree.svg",
+    "githubRepo": "",
+    "playStoreListing": null
   }
 ]
