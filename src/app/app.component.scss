@@ -10,11 +10,8 @@
   // background-image: url('/assets/tree.svg');
   // background-image: url('/assets/balloons.svg');
   background-image: url('/assets/mountains.svg');
-  background-attachment: fixed;
+  background-attachment: local;
   background-size: cover;
-
-  // background-color: mat-color($dark-primary);
-  // color: rgb(0, 0, 0, 0.87);
 }
 
 .header-content {
@@ -64,5 +61,9 @@
 }
 
 .me {
-  max-width: 400px;
+  max-width: 600px;
+}
+
+.content-container {
+  padding: 8px;
 }

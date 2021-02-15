@@ -1,0 +1,13 @@
+@import '~@angular/material/theming';
+@import '../../../styles.scss';
+
+:host {
+  color: $dark-primary-text;
+  font-family: 'Courier New', Courier, monospace !important;
+}
+
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
