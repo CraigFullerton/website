@@ -1,0 +1,16 @@
+<div class="card-container">
+  <div class="heading">{{project?.name}}</div>
+
+  <div class="content">
+    <img [src]="project?.assetImagePath" alt="Image of project">
+  </div>
+
+  <div class="actions">
+    <div class="action-left"></div>
+    <div class="action-right">
+      <a [href]="project?.playstoreListing">
+        <img src="assets/google-play-badge.png">
+      </a>
+
+  </div>
+</div>

@@ -1,0 +1,35 @@
+.card-container {
+  width: 240px;
+  height: 300px;
+  border: 1px solid #ffa107;
+  border-radius: 8px;
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-container * {
+  max-width: 100%;
+}
+
+.heading {
+  margin-block-start: 0;
+  flex: 0;
+}
+
+.content {
+  flex: 1;
+}
+
+.actions {
+  display: flex;
+  flex: 0;
+}
+
+.spacer {
+  flex: 1 0 auto;
+}
+
+.action-left, .action-right {
+  width: 50%;
+}
